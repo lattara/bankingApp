@@ -3,6 +3,6 @@ package com.bank;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	 AccountManager.main(args);
     }
 }
